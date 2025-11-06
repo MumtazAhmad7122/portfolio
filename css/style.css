@@ -311,4 +311,8 @@ footer p { margin-top: 15px; color: #999; }
 @media(max-width:768px){
   section{padding:80px 25px}
   header{padding:15px 25px}
+  section#skills {
+    padding-top: 0;
+}
+
 }

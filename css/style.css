@@ -314,5 +314,8 @@ footer p { margin-top: 15px; color: #999; }
   section#skills {
     padding-top: 0;
 }
-
+.about img {
+    width: 100%!Important;
 }
+}
+
